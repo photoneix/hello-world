@@ -3,5 +3,6 @@ first time fun with Github
 
 Testing how the branching feature works.
 
+change 1 and 2 are combined.
 
-Change 1 
+conflict from mergein and mergeout has been resolved. 
