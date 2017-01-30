@@ -1,5 +1,3 @@
 # hello-world
 
-deleted.
-
-Isha is a good girl.
+Thank you. 
